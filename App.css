@@ -1,0 +1,31 @@
+body {
+    background-color: navy;
+    font-family: "Times New Roman", Times, serif;
+    color: white;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  h1 {
+    color: orange;
+  }
+  
+  p {
+    color: lightgrey;
+  }
+  
+  button {
+    background-color: orange;
+    color: navy;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: grey;
+  }
+  
